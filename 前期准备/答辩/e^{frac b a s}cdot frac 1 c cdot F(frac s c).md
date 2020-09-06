@@ -1,0 +1,1 @@
+$e^{\frac b a s}\cdot \frac 1 c \cdot F(\frac s c)$
